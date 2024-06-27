@@ -1,0 +1,51 @@
+PODS:
+  - Ads-Fusion-CN-Beta/BUAdSDK (6.0.1.3)
+  - Ads-Fusion-CN-Beta/CSJMediation (6.0.1.3):
+    - Ads-Fusion-CN-Beta/BUAdSDK
+  - BaiduMobAdSDK (5.14)
+  - CSJMBaiduAdapter (5.325.1):
+    - Ads-Fusion-CN-Beta/CSJMediation (>= 5.8.0.5)
+  - CSJMGdtAdapter (4.14.45.0):
+    - Ads-Fusion-CN-Beta/CSJMediation (>= 5.6.1.3)
+  - CSJMKsAdapter (3.3.55.0.0):
+    - Ads-Fusion-CN-Beta/CSJMediation (>= 5.9.0.1)
+  - GDTMobSDK (4.14.50):
+    - GDTMobSDK/GDTMobSDK (= 4.14.50)
+  - GDTMobSDK/GDTMobSDK (4.14.50)
+  - KSAdSDK (3.3.61)
+  - YDAdModule_xs (1.0.21):
+    - Ads-Fusion-CN-Beta/CSJMediation (= 6.0.1.3)
+    - BaiduMobAdSDK (= 5.14)
+    - CSJMBaiduAdapter (= 5.325.1)
+    - CSJMGdtAdapter (= 4.14.45.0)
+    - CSJMKsAdapter (= 3.3.55.0.0)
+    - GDTMobSDK (= 4.14.50)
+    - KSAdSDK (= 3.3.61)
+
+DEPENDENCIES:
+  - YDAdModule_xs (= 1.0.21)
+
+SPEC REPOS:
+  trunk:
+    - Ads-Fusion-CN-Beta
+    - BaiduMobAdSDK
+    - CSJMBaiduAdapter
+    - CSJMGdtAdapter
+    - CSJMKsAdapter
+    - GDTMobSDK
+    - KSAdSDK
+    - YDAdModule_xs
+
+SPEC CHECKSUMS:
+  Ads-Fusion-CN-Beta: cfd3b4527c950d68e63249bb619d1ed32e52bd38
+  BaiduMobAdSDK: bcbd17d45e8e3b89d10ec0300765a88cf78289fc
+  CSJMBaiduAdapter: 087c44d084b9e8000dc55a397fada8498a1718f6
+  CSJMGdtAdapter: bf3b16efa4294bc2669181692de2bd44b7eb9adf
+  CSJMKsAdapter: bf964b74e73e4a68b256814cefc60cc1d1b90fe3
+  GDTMobSDK: 1e41bdf044a7d89c7455ff07dba4f687d35414d2
+  KSAdSDK: 7754afd132df893c0c7a493fa878cbee7af6ff3c
+  YDAdModule_xs: ace7744598baafbc9a076236ecc7ae3cb654f4d1
+
+PODFILE CHECKSUM: 6745b7ee5a71bbe46df1ae0e4826b51dfb99682a
+
+COCOAPODS: 1.15.2
